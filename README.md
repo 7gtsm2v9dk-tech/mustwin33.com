@@ -9,3 +9,30 @@ document.querySelectorAll(".game").forEach(btn=>btn.onclick=()=>show(btn.dataset
 document.getElementById("installHelp").onclick=()=>show("Safari: Share → Add to Home Screen → Add");
 render();
 if("serviceWorker" in navigator){window.addEventListener("load",()=>navigator.serviceWorker.register("sw.js"))}
+33MustWin33
+◎
+WELCOME BACK
+
+Play. Compete.
+Win points.
+
+A mobile-first demo gaming experience using points with no cash value.
+
+DEMO POINTS 1,000  Claim daily points
+Games
+
+Demo only
+⚡Quick PlayFast demo round  33Pick 33Choose your numbers 🏆LeaderboardCompare demo scores
+INSTALL ON IPHONE
+
+Put MustWin33 on your Home Screen
+
+In Safari, tap Share → Add to Home Screen.
+
+How to install
+Recent activity
+
+Quick Play+120 pts
+Daily bonus+100 pts
+Pick 33+80 pts
+⌂Home  ◈Games  ◎Profile
