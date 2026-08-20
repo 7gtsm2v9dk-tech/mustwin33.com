@@ -36,3 +36,13 @@ Quick Play+120 pts
 Daily bonus+100 pts
 Pick 33+80 pts
 ⌂Home  ◈Games  ◎Profile
+{
+  "name": "MustWin33",
+  "short_name": "MustWin33",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#111111",
+  "description": "MustWin33 demo gaming experience using points with no cash value.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
